@@ -35,7 +35,7 @@ By the successful completion of this course, students will be able to:
 
 
 ##### Inheritance
-* [Inheritance]()
+* [Inheritance](http://www.tutorialspoint.com/cplusplus/cpp_inheritance.htm)
 
 ##### Pointer
 * [Pointer C++ tutorial](http://www.cplusplus.com/doc/tutorial/pointers/)
