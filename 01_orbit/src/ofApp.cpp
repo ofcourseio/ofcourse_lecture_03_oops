@@ -2,19 +2,28 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-    
-    myOrbit.setup();
+    for (int i = 0; i< ORBIT_NUMS; i++){
+        myOrbit[i].setup();
+    }
 }
 
 //--------------------------------------------------------------
 void ofApp::update(){
     
-    myOrbit.update();
+    for (int i = 0; i< ORBIT_NUMS; i++){
+        myOrbit[i].update();
+    }
+    
 }
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    myOrbit.draw(mouseX, mouseY);
+    ofPoint pos(mouseX, mouseY);
+    
+    for (int i = 0; i< ORBIT_NUMS; i++){
+        myOrbit[i].draw(pos);
+    }
+    
 
 }
 

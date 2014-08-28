@@ -1,6 +1,6 @@
  
 
-**ofCourse-03-oops**
+#**ofCourse-03-oops**
 
 Welcome to **ofCourse week 3 - OOPs - Object-oriented Programming aka Oh yes, this is my Original Particle**, [here](https://github.com/ofcourseio) you will find the index of all our class repos.
 
@@ -42,7 +42,7 @@ By the successful completion of this course, students will be able to:
 
 
 ##### Polymorphism 
-* [](http://www.cplusplus.com/doc/tutorial/polymorphism/)
+* [Polymorphism C++ tutorial](http://www.cplusplus.com/doc/tutorial/polymorphism/)
 
 
 
